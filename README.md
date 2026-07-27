@@ -17,4 +17,4 @@ Bu proje, internet bağlantısı olmadan tamamen yerel (offline) çalışan bir 
    ```bash
    git clone [https://github.com/thelolix/RAG.git](https://github.com/thelolix/RAG.git)
    cd RAG
-### 📊 [YZ 00 Yapay Zeka Ders Notu (PDF)](https://drive.google.com/file/d/1PdiYDclqisiFrDbtIcCxJIzc3RsJ0K1K/view?usp=sharing)
+### 📊 [Sunumum Linkte Tıklayınız](https://drive.google.com/file/d/1PdiYDclqisiFrDbtIcCxJIzc3RsJ0K1K/view?usp=sharing)
